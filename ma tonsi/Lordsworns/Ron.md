@@ -11,4 +11,4 @@ Personal Effect (Ideal)
 Equipment:
 	Arming sword and shield.
 
-Friend of [[Arrow]]. Used to be a lawman.
+Friend of [[Arrow]]. Used to be a lawman. Friends with [[jerry]] from back then.

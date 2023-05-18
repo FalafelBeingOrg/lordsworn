@@ -11,4 +11,4 @@ Personal Effect (Ideal)
 Equipment:
 	Arming sword and shield
 
-Friend of [[George]]
+Friend of [[George]]. Used to be a lawman. Friends with [[Ron]] from back then.
