@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "736aa2a02ff2750a",
+    "id": "95593839c9e0c07a",
     "type": "split",
     "children": [
       {
-        "id": "e6a946a4a1bf4c82",
+        "id": "fefa30b240cbadc9",
         "type": "tabs",
         "children": [
           {
-            "id": "a92cb0779e610a80",
+            "id": "bc4f1895db46d953",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "898b1649caae2de5",
+    "id": "6827d51f8491ac21",
     "type": "split",
     "children": [
       {
-        "id": "c016812d16f2e06f",
+        "id": "b3ce7d7db330161b",
         "type": "tabs",
         "children": [
           {
-            "id": "0524a397bc10aab7",
+            "id": "b9e85450a8339337",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "203366c070b183aa",
+            "id": "f634b6d18ce84a76",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "be663c967ae39326",
+            "id": "d027cecb572bddba",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "15029ec34031bee7",
+    "id": "12d1890c70a4e80d",
     "type": "split",
     "children": [
       {
-        "id": "80f5af5ff5fed909",
+        "id": "c525a835b686798c",
         "type": "tabs",
         "children": [
           {
-            "id": "61ff5763773e0aeb",
+            "id": "b4275801008b6eeb",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "874f2ff5565cea6a",
+            "id": "d5e83e4860dae407",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "52eb45f3e930cef2",
+            "id": "b35d81a23033022b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "6f063cb67388167a",
+            "id": "bc0bf64d59eb6153",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -138,32 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0524a397bc10aab7",
-  "lastOpenFiles": [
-    "Lordsworns/George.md",
-    "Lordsworns/Ron.md",
-    "Lordsworns/Example dude.md",
-    "Lordsworns/Untitled.md",
-    "Homes/Ardentia.md",
-    "Gods/Thoaris.md",
-    "Captains/River.md",
-    "Lordsworns",
-    "Homes",
-    "Captains",
-    "sbdfagdfa.md",
-    "ma tonsi/Homes/Ardentia.md",
-    "ma tonsi/Gods/Thoaris.md",
-    "ma tonsi/Captains/River.md",
-    "ma tonsi/sbdfagdfa.md",
-    "ma tonsi/Homes",
-    "ma tonsi/Gods",
-    "ma tonsi/Captains",
-    "ma tonsi",
-    "rowan.md",
-    "Gods",
-    "john.md",
-    "Untitled.canvas",
-    "2023-05-17.md",
-    "rowan"
-  ]
+  "active": "bc4f1895db46d953",
+  "lastOpenFiles": []
 }
