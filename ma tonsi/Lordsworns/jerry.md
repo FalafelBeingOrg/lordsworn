@@ -10,3 +10,5 @@ Personal Effect (Ideal)
 	A scrap of cloth from the Company’s old banner.
 Equipment:
 	Arming sword and shield
+
+Friend of [[George]]
