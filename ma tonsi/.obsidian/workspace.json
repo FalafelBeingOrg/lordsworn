@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "736aa2a02ff2750a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6a946a4a1bf4c82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a92cb0779e610a80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods/Thoaris.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "898b1649caae2de5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c016812d16f2e06f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0524a397bc10aab7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "203366c070b183aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be663c967ae39326",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "15029ec34031bee7",
+    "type": "split",
+    "children": [
+      {
+        "id": "80f5af5ff5fed909",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61ff5763773e0aeb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gods/Thoaris.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "874f2ff5565cea6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gods/Thoaris.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52eb45f3e930cef2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6f063cb67388167a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gods/Thoaris.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a92cb0779e610a80",
+  "lastOpenFiles": [
+    "rowan.md",
+    "Gods/Thoaris.md",
+    "Gods",
+    "john.md",
+    "Untitled.canvas",
+    "2023-05-17.md",
+    "rowan"
+  ]
+}
