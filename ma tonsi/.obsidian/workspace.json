@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lordsworns/Example dude.md",
+                "file": "Lordsworns/Ron.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lordsworns/Example dude.md",
+                "file": "Lordsworns/Ron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lordsworns/Example dude.md",
+                "file": "Lordsworns/Ron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lordsworns/Example dude.md"
+                "file": "Lordsworns/Ron.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "a92cb0779e610a80",
   "lastOpenFiles": [
     "Gods/Thoaris.md",
-    "Lordsworns/Example dude.md",
+    "Lordsworns/Ron.md",
     "Lordsworns",
     "Homes/Ardentia.md",
     "Homes",
