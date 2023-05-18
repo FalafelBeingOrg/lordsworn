@@ -11,8 +11,12 @@
             "id": "a92cb0779e610a80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lordsworns/Arrow.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lordsworns/Arrow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lordsworns/Arrow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lordsworns/Arrow.md"
+              }
             }
           }
         ]
@@ -140,10 +148,10 @@
   },
   "active": "a92cb0779e610a80",
   "lastOpenFiles": [
-    "Lordsworns/jerry.md",
-    "Lordsworns/Arrow.md",
     "Lordsworns/Ron.md",
+    "Lordsworns/Arrow.md",
     "Lordsworns/George.md",
+    "Lordsworns/jerry.md",
     "Gods/Thoaris.md",
     "Lordsworns",
     "Homes/Ardentia.md",
