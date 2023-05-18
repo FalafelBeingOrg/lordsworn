@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Lordsworns/Ash.md",
                 "file": "Lordsworns/Arrow.md",
                 "mode": "source",
                 "source": false
@@ -85,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lordsworns/Ash.md",
                 "file": "Lordsworns/Arrow.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -102,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lordsworns/Ash.md",
                 "file": "Lordsworns/Arrow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -125,6 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Lordsworns/Ash.md"
                 "file": "Lordsworns/Arrow.md"
               }
             }
@@ -152,7 +156,10 @@
     "Lordsworns/Ron.md",
     "Lordsworns/John.md",
     "Lordsworns/George.md",
+    "Lordsworns/Ash.md",
     "Lordsworns/Arrow.md",
+    "Lordsworns/Ron.md",
+    "Lordsworns/jerry.md",
     "Lordsworns/Example dude.md",
     "Homes/Ardentia.md",
     "Gods/Thoaris.md",
