@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "ff9e0142291ba330",
+    "id": "736aa2a02ff2750a",
     "type": "split",
     "children": [
       {
-        "id": "786902880287f032",
+        "id": "e6a946a4a1bf4c82",
         "type": "tabs",
         "children": [
           {
-            "id": "4fd89f05bc1a4bc6",
+            "id": "a92cb0779e610a80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homes/Ardentia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40c2ffb0da9ffd8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sbdfagdfa.md",
+                "file": "Gods/Thoaris.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e3df9b42986f0f2d",
+    "id": "898b1649caae2de5",
     "type": "split",
     "children": [
       {
-        "id": "ddc5e53d7c509f55",
+        "id": "c016812d16f2e06f",
         "type": "tabs",
         "children": [
           {
-            "id": "8df9e71a00596669",
+            "id": "0524a397bc10aab7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "9381f5ab06b5b58d",
+            "id": "203366c070b183aa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "ab553e9e38b64539",
+            "id": "be663c967ae39326",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "98ed9f4b961fb266",
+    "id": "15029ec34031bee7",
     "type": "split",
     "children": [
       {
-        "id": "4b1478b50549126a",
+        "id": "80f5af5ff5fed909",
         "type": "tabs",
         "children": [
           {
-            "id": "608b0022dafee94a",
+            "id": "61ff5763773e0aeb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sbdfagdfa.md",
+                "file": "Gods/Thoaris.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "4f7bf633e6d76031",
+            "id": "874f2ff5565cea6a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sbdfagdfa.md",
+                "file": "Gods/Thoaris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "308913b8d0129dd4",
+            "id": "52eb45f3e930cef2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +120,12 @@
             }
           },
           {
-            "id": "73cf2a2638988bec",
+            "id": "6f063cb67388167a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "sbdfagdfa.md"
+                "file": "Gods/Thoaris.md"
               }
             }
           }
@@ -159,13 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8df9e71a00596669",
+  "active": "0524a397bc10aab7",
   "lastOpenFiles": [
+    "Lordsworns",
     "Homes/Ardentia.md",
-    "sbdfagdfa.md",
-    "Untitled",
+    "Homes",
     "Captains/River.md",
+    "Captains",
+    "sbdfagdfa.md",
+    "ma tonsi/Homes/Ardentia.md",
+    "ma tonsi/Gods/Thoaris.md",
+    "ma tonsi/Captains/River.md",
+    "ma tonsi/sbdfagdfa.md",
+    "ma tonsi/Homes",
+    "ma tonsi/Gods",
+    "ma tonsi/Captains",
+    "ma tonsi",
+    "rowan.md",
     "Gods/Thoaris.md",
-    "Gods"
+    "Gods",
+    "john.md",
+    "Untitled.canvas",
+    "2023-05-17.md",
+    "rowan"
   ]
 }
