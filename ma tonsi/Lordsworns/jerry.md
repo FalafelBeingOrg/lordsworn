@@ -9,6 +9,6 @@ Aesthetic Features:
 Personal Effect (Ideal)
 	A scrap of cloth from the Company’s old banner.
 Equipment:
-	Arming sword and shield
+	Arming sword and shield.
 
 Friend of [[George]]. Used to be a lawman. Friends with [[Ron]] from back then.

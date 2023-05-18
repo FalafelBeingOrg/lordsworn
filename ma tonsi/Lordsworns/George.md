@@ -11,4 +11,4 @@ Personal Effect (Ideal)
 Equipment:
 	Hunting bow and knife
 
-Friend of [[jerry]]
+Friend of [[jerry]]. Friends with [[John]] from training.
