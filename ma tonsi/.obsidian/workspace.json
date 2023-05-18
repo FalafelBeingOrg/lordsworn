@@ -13,8 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lordsworns/Ash.md",
-                "file": "Lordsworns/Arrow.md",
+                "file": "Captains/River.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lordsworns/Ash.md",
-                "file": "Lordsworns/Arrow.md",
+                "file": "Captains/River.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lordsworns/Ash.md",
-                "file": "Lordsworns/Arrow.md",
+                "file": "Captains/River.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,8 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lordsworns/Ash.md"
-                "file": "Lordsworns/Arrow.md"
+                "file": "Captains/River.md"
               }
             }
           }
@@ -152,19 +148,16 @@
   },
   "active": "a92cb0779e610a80",
   "lastOpenFiles": [
-    "Lordsworns/jerry.md",
     "Lordsworns/Ron.md",
-    "Lordsworns/John.md",
-    "Lordsworns/George.md",
-    "Lordsworns/Ash.md",
-    "Lordsworns/Arrow.md",
-    "Lordsworns/Ron.md",
-    "Lordsworns/jerry.md",
-    "Lordsworns/Example dude.md",
-    "Homes/Ardentia.md",
-    "Gods/Thoaris.md",
     "Captains/River.md",
+    "Gods/Thoaris.md",
+    "Lordsworns/Arrow.md",
+    "Lordsworns/Ash.md",
+    "Lordsworns/George.md",
+    "Lordsworns/jerry.md",
+    "Lordsworns/John.md",
     "Lordsworns",
+    "Homes/Ardentia.md",
     "Homes",
     "Captains",
     "sbdfagdfa.md",

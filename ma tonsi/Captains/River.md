@@ -10,3 +10,5 @@ Motto
 Follower of [[Thoaris]]
 
 Home is in [[Ardentia]]
+
+Captain of [[Arrow]], [[Ash]], [[George]], [[jerry]], [[John]], [[Ron]].
